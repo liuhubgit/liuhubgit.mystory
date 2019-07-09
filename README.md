@@ -16,9 +16,9 @@
 
 # 自我评价
 1. 具有5年以上软件开发经验，熟悉软件开发流程。 
-2. 精通JAVA语言，熟练应用Struts Spring Hibernate 等主流框架技术。 
-3. 熟练使用oracle、sqlserver、sybase等主流关系型数据库，熟练优化sql，减轻系统性能压力。
-4. 对web前端技术，包括 html, javascript, css 等都有所了解。
+2. 精通JAVA语言，熟练应用Struts、Spring、Hibernate、spring boot等主流框架技术。 
+3. 熟练使用oracle、sqlserver、sybase、DB2等主流关系型数据库，掌握sql性能调优方法，减轻系统性能压力。
+4. 对web前端技术，包括 html, javascript, css 等都有所了解，并接触过jquery、bootstrap等前端框架。
 5. 工作能力强，踏实认真，善于团队协作，勤于思考，擅长解决复杂问题，希望从工作中不断完善提高自己。
 
 # 联系我
